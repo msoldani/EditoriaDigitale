@@ -308,6 +308,7 @@ La cover dell'EPUB è stata generata tramite un web app che fa un collage degli 
 <img src="C:\Users\mirco\Desktop\Editoria\Progetto\collage.jpeg" alt="collage" style="zoom:50%;" />
 
 
+![collage](img/collage.jepg)
 
 Pandoc poteva essere utilizzato per trasformare l'HTML in EPUB e altri formati, ma volendo più libertà nella personalizzazione ho optato per l'opzione di usare calibre.
 
