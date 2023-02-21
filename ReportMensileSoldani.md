@@ -305,10 +305,8 @@ Nella sezione "Stili", sono presenti CSS che vanno a definire lo stile delle pag
 
 La cover dell'EPUB è stata generata tramite un web app che fa un collage degli album più ascoltati dell'utente inserito tramite le API di Last.fm.
 
-<img src="C:\Users\mirco\Desktop\Editoria\Progetto\collage.jpeg" alt="collage" style="zoom:50%;" />
+<img src="img/collage.jpeg" alt="collage" style="zoom:50%;" />
 
-
-![collage](img/collage.jepg)
 
 Pandoc poteva essere utilizzato per trasformare l'HTML in EPUB e altri formati, ma volendo più libertà nella personalizzazione ho optato per l'opzione di usare calibre.
 
