@@ -285,7 +285,7 @@ Per convertire il file .xhtml in EPUB ho usato di [Calibre](https://calibre-eboo
 
 Una volta ottenuto l'XHTML è possibile convertirlo facilmente dall'interfaccia di Calibre,  aggiungendo per prima cosa il file alla libreria. L'interfaccia permette di selezionare il formato in output (in questo caso l'output sarà un .epub) ma permette anche di inserire metadati e informazioni aggiuntive. Nella sezione "Indice" 
 
-![image-20230220163108356](C:\Users\mirco\Desktop\Editoria\Progetto\image-20230220163108356.png)
+<img src="img/epub-1.png" alt="image-epub1" style="zoom: 80%;" />
 
 Dopo aver aggiunto metadati quali titolo e autore, è possibile effettivamente iniziare a modificare il contenuto dell'EPUB. 
 
@@ -299,7 +299,7 @@ Nella sezione "Stili", sono presenti CSS che vanno a definire lo stile delle pag
 
 
 
-<img src="C:\Users\mirco\AppData\Roaming\Typora\typora-user-images\image-20230220164141578.png" alt="image-20230220164141578" style="zoom: 80%;" />
+<img src="img/epub-2.png" alt="image-epub2" style="zoom: 80%;" />
 
 
 
