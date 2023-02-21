@@ -182,7 +182,7 @@ Una volta ottenute le canzoni più ascoltate dall'utente, sono stati estratti gl
 
 ## Gestione documentale
 
-![diagram(1)](C:\Users\mirco\Downloads\diagram(3).svg)
+![diagram(1)](\diagram(3).svg)
 
 
 
