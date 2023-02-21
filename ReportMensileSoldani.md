@@ -182,7 +182,7 @@ Una volta ottenute le canzoni più ascoltate dall'utente, sono stati estratti gl
 
 ## Gestione documentale
 
-![diagram(1)](\diagram(3).svg)
+![diagramma](\img\diagramma.svg)
 
 
 
